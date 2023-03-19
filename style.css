@@ -1,0 +1,33 @@
+body{
+    background: url(gajarhalwa.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ingredient{
+    color: white;
+}
+
+.list{
+    color: white;
+    font-size: larger;
+}
+
+.p1{
+    color:rgb(210, 210, 158);
+    word-spacing: 10px;
+    padding-top: 12vh;
+}
+
+.li1{
+    color: aliceblue;
+    font-size: larger;
+}
+
+.steps{
+    color: aliceblue;
+}
+.logo{
+    margin-left: 90vw;
+}
+
